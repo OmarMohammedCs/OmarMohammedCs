@@ -52,7 +52,7 @@ Structured AI responses with JSON output
 ## 🌐 Connect
 
 <p align="center">
-  <a href="PUT_LINKEDIN_HERE">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/omar-mohammed14/">LinkedIn</a>
 </p>
 
 ---
