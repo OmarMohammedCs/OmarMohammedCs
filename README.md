@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
+<h1 align="center">Hi, I'm Omar Mohammed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Node.js+%7C+NestJS;Building+Scalable+APIs;AI+Integration&center=true&width=500&height=45">
@@ -6,21 +6,21 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Backend / Full Stack Developer focused on building scalable backend systems and clean APIs.
 Currently exploring AI integration with Node.js.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 Node.js | NestJS | React | Next.js
-MongoDB | MySQL | SQLite
+MongoDB | MySQL | SQLite | PostgreSQl
 
 ---
 
-## 🔥 Projects
+##  Projects
 
 **Expense Tracker API**
 Track expenses with analytics and monthly insights
@@ -33,7 +33,7 @@ Structured AI responses with JSON output
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarMohammedCs&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -41,7 +41,7 @@ Structured AI responses with JSON output
 
 ---
 
-## 📈 Activity
+##  Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMohammedCs&theme=tokyo-night&hide_border=true"/>
@@ -49,7 +49,7 @@ Structured AI responses with JSON output
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-mohammed14/">LinkedIn</a>
