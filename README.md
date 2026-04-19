@@ -57,9 +57,9 @@ Structured AI responses with JSON output
 
 ---
 
-## ⚡ Note
+##  Note
 
-Focused on backend performance, scalability, and real-world systems 🚀
+Focused on backend performance, scalability, and real-world systems 
 
 ---
 
